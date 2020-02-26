@@ -16,7 +16,7 @@
   </properties>
   <name>Handy Uri Templates 2.x API Plugin</name>
   <description>Bundles Handy Uri Templates 2.x and allows it to be used by Jenkins plugins</description>
-  <url>https://wiki.jenkins.io/display/JENKINS/Handy+Uri+Templates+2+API+Plugin</url>
+  <url>https://github.com/jenkinsci/handy-uri-templates-2-api-plugin</url>
   <developers>
     <developer>
       <id>casz</id>
